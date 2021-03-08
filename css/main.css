@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+img {
+  width: 100%;
+}
+
+.logo {
+  width: 100px;
+}
+
+.nav-primary {
+  padding: 10px;
+}
+
+.mx-8 {
+  margin: 0 8px;
+}
+
+.bq {
+  border-left: 10px solid black;
+  margin: 0;
+  padding-left: 10px;
+}
